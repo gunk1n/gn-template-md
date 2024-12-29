@@ -58,6 +58,9 @@ folder1/
 
 Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/gunk1n/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/gunk1n/issues/new).
 
+- BUG_REPORT.md
+- FEATURE_REQUEST.md
+
 ## Contributing
 
 Please read through our [contributing guidelines](https://github.com/gunk1n/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
